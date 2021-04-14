@@ -1,0 +1,12 @@
+title: Dom Christie Photography
+email: christiedom@gmail.com
+description: "Photography by Dom Christie"
+baseurl: ""
+url: "https://photography.domchristie.co.uk"
+twitter_username: domchristie
+github_username:  domchristie
+
+permalink: none
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

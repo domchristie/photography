@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Untitled 5028.33"
+date: 2020-11-26
+image: "https://live.staticflickr.com/65535/51049902793_e7862f65eb_b.jpg"
+alt: "A vintage car sits in a driveway whilst the sun sets through leafy branches above."
+thumbnail_image: "https://live.staticflickr.com/65535/51049902793_e7862f65eb_q.jpg"
+flickr_url: "https://www.flickr.com/photos/domchristie/51049902793/"
+location: &location "Los Feliz, Los Angeles"
+camera: "Lomo LC-A"
+film: "Kodak Gold 200"
+description: *location
+tags: california cars film lomo-lca kodak-gold-200
+---

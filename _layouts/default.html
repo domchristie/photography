@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+{% include head.html %}
+<body>
+  <header role="banner">
+    <nav>
+      <a href="https://domchristie.co.uk">
+        <img src="/assets/domchristie.jpg" width="24" height="24">
+      </a>
+      <a href="/"{% if page.url == "/" %} aria-current="location"{% endif %}>
+        Photography
+      </a>
+    </nav>
+  </header>
+
+  <main aria-label="Content">
+    {{ content }}
+  </main>
+
+  <footer>
+    Copyright {{ 'now' | date: "%Y" }} <a href="https://domchristie.co.uk">Dom Christie</a>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,12 @@
+---
+layout: post
+title: "2CV"
+date: 2010-07-15
+flickr_url: "https://www.flickr.com/photos/domchristie/8441923921/"
+image: "https://live.staticflickr.com/8378/8441923921_e747052631_b.jpg"
+thumbnail_image: "https://live.staticflickr.com/8378/8441923921_e747052631_q.jpg"
+location: "Port Isaac, Cornwall"
+camera: "Lomo LC-A"
+film:
+tags:
+---

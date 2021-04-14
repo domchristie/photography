@@ -1,0 +1,12 @@
+---
+layout: post
+title: "F Posts"
+date: 2007-08-26
+flickr_url: "https://www.flickr.com/photos/domchristie/1637504562/"
+image: "https://live.staticflickr.com/2411/1637504562_1e9a6b01b4_b.jpg"
+thumbnail_image: "https://live.staticflickr.com/2411/1637504562_1e9a6b01b4_q.jpg"
+location: "Uetliberg, Zurich"
+camera: "Lomo LC-A"
+film: "Fujicolor 400 (expired)"
+tags:
+---

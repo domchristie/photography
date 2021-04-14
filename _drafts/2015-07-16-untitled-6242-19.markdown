@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Untitled 6242.19"
+date: 2015-01-20
+image: "https://live.staticflickr.com/5806/21160007479_4d875700ae_b.jpg"
+alt: "A fast food van on the corner of empty dusty roads"
+thumbnail_image: "https://live.staticflickr.com/5806/21160007479_4d875700ae_q.jpg"
+flickr_url: "https://www.flickr.com/photos/domchristie/21160007479/"
+location: &location "Sardinia, Italy"
+camera: "Olympus Mju ii"
+film: "Kodak Gold 200"
+description: *location
+tags: london underground public-transport people digital ricoh-gr
+---

@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Wayfarer"
+date: 2014-02-14
+image: "https://live.staticflickr.com/2869/12612096484_a9b254274a_b.jpg"
+alt: "A pair of sunglasses hooked on shopfront shutters"
+thumbnail_image: "https://live.staticflickr.com/2869/12612096484_a9b254274a_q.jpg"
+flickr_url: "https://www.flickr.com/photos/domchristie/12612096484/"
+location: "London"
+camera: "Olympus OM-2n"
+film: "Kodak Gold 200"
+tags:
+---

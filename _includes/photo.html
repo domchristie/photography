@@ -1,0 +1,23 @@
+<figure itemscope itemtype="https://schema.org/Photograph">
+  <a href="{{ include.photo.flickr_url }}" title="This photo on Flickr">
+    <img src="{{ include.photo.image }}" itemprop="image" alt="{{ include.photo.alt }}">
+  </a>
+
+  <figcaption>
+    <h2 itemprop="name headline">{{ include.photo.title }}</h2>
+
+    {{ include.photo.location }}
+    <time datetime="{{ include.photo.date | date_to_xmlschema }}" itemprop="dateCreated">
+      {{ page.date | date: "%Y" }}
+    </time>
+
+    <dl>
+      <dt>Camera</dt>
+      <dd>{{ include.photo.camera }}</dd>
+      {%- if include.photo.film %}
+      <dt>Film</dt>
+      <dd>{{ include.photo.film }}</dd>
+      {%- endif %}
+    </dl>
+  </figcaption>
+</figure>

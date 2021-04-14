@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Untitled 6748.13"
+date: 2009-11-15
+flickr_url: "https://www.flickr.com/photos/domchristie/4128215509/"
+image: "https://live.staticflickr.com/2553/4128215509_350e93f6e1_b.jpg"
+thumbnail_image: "https://live.staticflickr.com/2553/4128215509_350e93f6e1_q.jpg"
+location: "Reykjavík"
+camera: "Lomo LC-A"
+film: "Fuji Superia 400"
+tags: icelane reykjavik archetypal-street lomo-lca fuji-superia-400
+---

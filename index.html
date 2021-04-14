@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+{% if site.posts.size > 0 %}
+  <ol aria-label="Photographs">
+    {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">
+        <img src="{{ post.thumbnail_image}}" alt="{{ post.title}}">
+      </a>
+    </li>
+    {% endfor %}
+  </ol>
+{% endif %}
