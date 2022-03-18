@@ -12,8 +12,9 @@ body {
 header,
 footer {
   padding: .5rem;
-  font-family: courier, monospace, sans-serif;
+  font-family: 'Courier New', Courier, monospace, sans-serif;
   font-size: .8125rem;
+  font-weight: bold;
 }
 
 footer {
